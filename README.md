@@ -38,6 +38,8 @@
   <img width="1000" height="1000" src="https://github.com/dimoroz772/My_ideal_software_IT-environment/blob/main/RackTables.png">
 </p>
 
+![RackTables](https://github.com/dimoroz772/My_ideal_software_IT-environment/blob/main/RackTables.png)
+
 *Что умеет делать данное ПО? С помощью RackTables можно:*
 
 - *Видеть список всех устройств, которые у вас есть в организации/компании;*
