@@ -34,10 +34,6 @@
 
 *RackTables - это хороший инструмент для управления ресурсами центра обработки данных и серверных комнат.*
 
-<p align="center">
-  <img width="1000" height="1000" src="https://github.com/dimoroz772/My_ideal_software_IT-environment/blob/main/RackTables.png">
-</p>
-
 ![RackTables](https://github.com/dimoroz772/My_ideal_software_IT-environment/blob/main/RackTables.png)
 
 *Что умеет делать данное ПО? С помощью RackTables можно:*
