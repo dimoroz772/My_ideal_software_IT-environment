@@ -68,3 +68,11 @@
 
 ![Proxmox-VE-Cluster-Summary](https://github.com/dimoroz772/My_ideal_software_IT-environment/blob/main/Proxmox-VE-Cluster-Summary.png)
 
+
+# *Adiscon LogAnalyzer*
+
+*Loganalyzer – это веб-интерфейс для доступа к базе данных логов полученный от Syslog/Rsyslog. Функционал данного Web-приложения:*
+
+- *Удобный просмотр логов;*
+- *Анализ сетевых событий в реальном времени;*
+- *Создание отчетов.*
