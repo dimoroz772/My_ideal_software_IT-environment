@@ -4,7 +4,7 @@
 
 ![PRTG Network Monitor](https://github.com/dimoroz772/My_ideal_software_IT-environment/blob/main/PRTG%20Network%20Monitor.png)
 
-*PRTG Network Monitor - это программное обеспечение для мониторинга работы сети. Что умеет делать данное ПО? С помощью данного ПО можно отслеживать:*
+*PRTG Network Monitor - это программное обеспечение для мониторинга работы сети. Что умеет делать данное ПО? С помощью PRTG Network Monitor можно отслеживать:*
 
 - *Аптаймы, простои и медленные сервера;*
 - *Состояние системы аппаратных устройств;*
