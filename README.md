@@ -71,6 +71,8 @@
 
 # *Adiscon LogAnalyzer*
 
+![LogAnalyzer](https://github.com/dimoroz772/My_ideal_software_IT-environment/blob/main/LogAnalyzer.png)
+
 *Loganalyzer – это веб-интерфейс для доступа к базе данных логов полученный от Syslog/Rsyslog. Функционал данного Web-приложения:*
 
 - *Удобный просмотр логов;*
