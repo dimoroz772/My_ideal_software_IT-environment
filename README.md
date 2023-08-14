@@ -18,3 +18,9 @@
 - *Потребление различных ресурсов и многое другое.*
 
 ![Monitoring](https://github.com/dimoroz772/My_ideal_software_IT-environment/blob/main/Monitoring.png)
+
+<p align="center">
+  <img width="1000" height="1000" src="https://github.com/dimoroz772/My_ideal_software_IT-environment/blob/main/Monitoring.png">
+</p>
+
+
