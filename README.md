@@ -52,6 +52,8 @@
 
 # *Proxmox Virtual Environment*
 
+![Proxmox](https://github.com/dimoroz772/My_ideal_software_IT-environment/blob/main/Proxmox.png)
+
 *Proxmox Virtual Environment — это система виртуализации с открытым исходным кодом, основанная на Debian GNU/Linux. Ключевые возможности данной системы виртуализации:*
 
 - *Простое управление через веб-интерфейс;*
