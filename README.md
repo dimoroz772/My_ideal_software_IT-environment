@@ -65,3 +65,5 @@
 - *Быстрое развертывание гостевых систем из шаблонов;*
 - *Сохранение образа состояния виртуальной машины (snapshot), формирование дерева состояний и возможность отката в любую из точек;*
 - *Автоматическое резервное копирование виртуальных машин.*
+
+![Proxmox-VE-Cluster-Summary](https://github.com/dimoroz772/My_ideal_software_IT-environment/blob/main/Proxmox-VE-Cluster-Summary.png)
