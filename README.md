@@ -3,6 +3,7 @@
 # *PRTG Network Monitor*
 
 ![PRTG Network Monitor](https://github.com/dimoroz772/My_ideal_software_IT-environment/blob/main/PRTG%20Network%20Monitor.png)
+![PRTG in action](https://github.com/dimoroz772/My_ideal_software_IT-environment/blob/main/PRTG%20in%20action.png)
 
 *PRTG Network Monitor - это программное обеспечение для мониторинга работы сети. Что умеет делать данное ПО? С помощью PRTG Network Monitor можно отслеживать:*
 
